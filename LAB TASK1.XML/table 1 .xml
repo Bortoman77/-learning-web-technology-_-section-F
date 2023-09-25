@@ -1,0 +1,27 @@
+<companies>
+<company>
+    <ID>11</ID>
+    <NAME>Samsung</NAME>
+    <Stock>50</Stock>
+    <Status>1</Status>
+    </company>
+    
+    <company>
+    <ID>20</ID>
+    <NAME>HTM</NAME>
+    <Stock>35</Stock>
+    <Status>0</Status>
+    </company>
+    
+    <company>
+    <ID>23</ID>
+    <NAME>Nokia</NAME>
+    <Stock>100</Stock>
+    <Status>1</Status>
+    </company>
+    
+
+
+
+</companies>
+
